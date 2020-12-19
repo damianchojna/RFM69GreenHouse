@@ -1,0 +1,14 @@
+rfm69:
+    freqBand: RF69_868MHZ
+    address: 1
+    networkID: 100
+    isRFM69HW: true
+    powerLevelPercent: 100
+    interruptPin: 25
+    resetPin: 5
+    spiBus: 0
+    spiDevice: 0
+    promiscuousMode: false
+    encryptionKey: sampleEncryptKey
+    autoAcknowledge: true
+    verbose: false
